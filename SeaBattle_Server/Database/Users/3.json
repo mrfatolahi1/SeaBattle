@@ -1,0 +1,10 @@
+{
+  "username" : "m",
+  "password" : "111",
+  "currentGame" : null,
+  "games" : [ ],
+  "totalScore" : 0,
+  "numberOfWins" : 0,
+  "numberOfLosts" : 0,
+  "id" : 3
+}
